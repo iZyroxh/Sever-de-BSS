@@ -1,0 +1,68 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:spruce_planks": 20,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:used": {
+      "minecraft:spruce_log": 1,
+      "minecraft:stone_axe": 8,
+      "minecraft:glow_berries": 4,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 4,
+      "minecraft:moss_block": 2,
+      "minecraft:moss_carpet": 3,
+      "minecraft:stone_pickaxe": 55,
+      "minecraft:dirt": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 6,
+      "minecraft:coal": 28,
+      "minecraft:glow_berries": 21,
+      "minecraft:dirt": 1,
+      "minecraft:cobblestone": 28,
+      "minecraft:moss_carpet": 3,
+      "minecraft:moss_block": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:raw_iron": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 11907,
+      "minecraft:walk_one_cm": 46637,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 95,
+      "minecraft:play_time": 11907,
+      "minecraft:damage_dealt": 399,
+      "minecraft:jump": 200,
+      "minecraft:time_since_death": 11907,
+      "minecraft:sprint_one_cm": 12701,
+      "minecraft:fall_one_cm": 2469,
+      "minecraft:total_world_time": 11907,
+      "minecraft:fly_one_cm": 8059,
+      "minecraft:crouch_one_cm": 2383,
+      "minecraft:sneak_time": 951,
+      "minecraft:climb_one_cm": 49
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 2
+    },
+    "minecraft:mined": {
+      "minecraft:moss_carpet": 2,
+      "minecraft:tall_grass": 2,
+      "minecraft:dirt": 1,
+      "minecraft:spruce_log": 6,
+      "minecraft:crafting_table": 1,
+      "minecraft:coal_ore": 28,
+      "minecraft:moss_block": 2,
+      "minecraft:iron_ore": 1,
+      "minecraft:stone": 28
+    }
+  },
+  "DataVersion": 4671
+}
